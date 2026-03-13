@@ -12,11 +12,7 @@ namespace QuanLyBanHang
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
 
-            //Application.Run(new frmLoaiSanPham());
-            //Application.Run(new frmHangSanXuat());
-            //Application.Run(new frmKhachHang());
-            //Application.Run(new frmNhanVien());
-              Application.Run(new frmSanPham());
+              Application.Run(new frmHoaDon());
 
         }
     }
